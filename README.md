@@ -6,6 +6,7 @@ Welcome to the world of e-commerce, where customer feedback is a goldmine of ins
 This project analyzes the **Women's Clothing E-Commerce Reviews** dataset, focusing on the `Review Text` column filled with direct customer opinions.
 
 Using **Python, OpenAI embeddings, ChromaDB, scikit-learn, NumPy, Pandas, Matplotlib, and t-SNE**, this project demonstrates how AI and ML can uncover themes, perform semantic searches, and visualize customer sentiments.  
+
 The goal is to highlight how text embeddings and retrieval can improve **customer service, product offerings, and overall user experience**.
 
 ---
